@@ -1,0 +1,14 @@
+# PIERIAN DATA
+
+.yml dosyasını geri yüklemeye çalışırken, bazı kütüphanelerin bulunamadığına dair bir hata alıyorum. Ne yapmalıyım?
+
+Bazen İşletim Sistemlerinin belirli sürümlerini kullanırken, conda'nın birkaç destekleyici kütüphaneyi indirmesi gerekmez. Bu, söz konusu işletim sistemleri için bu kütüphanelerin mevcut olmadığı anlamına gelir. Bu hatayı alırsanız, basit bir düzeltme! Basitçe .yml dosyasını bir metin düzenleyicide açın ve işletim sisteminiz için bulunamayan kütüphanelerin tüm satırlarını kaldırın / silin.
+
+Slaytlar dosyasını indirmem gerekiyor
+
+
+Numpy kütüphanesinin kullanımını öğreneceğiz. 
+OpenCV kütüphanesinin kullanımını öğreneceğiz.
+
+Derin öğrenmede kendimizi geliştirip, öğrendiklerimizi uygulayacağız.
+
